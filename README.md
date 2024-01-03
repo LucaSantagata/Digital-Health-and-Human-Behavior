@@ -38,7 +38,7 @@ This course will cover topics related to quantifying human behavior, health, and
 * Assessment and evaluation of tools and interventions which are based on patient-generated data
 
 ### RESPONSIBLE TEACHER
-(Talayeh Aledavood)[https://talayeh.xyz/]
+[Talayeh Aledavood](https://talayeh.xyz/)
 
 ## FINAL (CHOSEN) PROJECT
 Network Study, more details in the folder DHHB Final Project
